@@ -47,5 +47,3 @@ The goal was to predict whether a diabetic patient will be readmitted to the hos
 
 - The model was able to reasonably predict whether patients would not be readmitted, but it had limited success in predicting the readmission class.
 - To improve results, further work could include balancing the dataset (due to class imbalance), experimenting with different models, or improving feature selection techniques.
-
-Let me know if you'd like to proceed with further improvements or next steps!
